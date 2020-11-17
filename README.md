@@ -44,6 +44,10 @@ Netlogo Simulation
 
 ![intial-setup](./images/full-scenario-simulation.PNG)
 
+## PERCEIVED STRESS QUESTIONNAIRE (PSQ)
+
+![./presentation/psq.PNG](./presentation/psq.PNG)
+
 # More Details
 
 [Welcome-to-Wiki-Page](https://github.com/Journal-AI/contextually-organising-maps/wiki/Welcome-to-Wiki-Page)
